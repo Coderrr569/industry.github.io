@@ -1,0 +1,252 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+.bar a img{
+    font-size: 20px;
+}
+
+.bar .navbar ul li a{
+    word-spacing: 30px;
+}
+
+.say2 img{
+    width: 150px;
+}
+
+.say3 h6 span{
+    color: chocolate;
+  
+}
+
+
+.say3{
+    background-color: #ffffff;
+    position: relative;
+}
+.pil{
+
+    width: 50px;
+    background-color: rgb(245, 149, 80);
+    border-radius: 25px;
+    position: absolute;
+    bottom:190px;
+    left:463px;
+}
+.pil p{
+    
+}
+/* ------------------------------------------------------------------ */
+.grow {
+    width: 100%;
+    display: flex;
+    
+}
+.box3 img{
+    position:absolute;
+    
+    height: 100%;
+}
+.box4 img{
+    position: relative;
+    width: 65%;
+    float: right;
+}
+.box5 img{
+    position: absolute;
+    top:110px;
+    left: 690px;
+    width: 35%;
+}
+.box6 img{
+    position: absolute;
+    width: 250px;
+}
+.box7{
+    position: absolute;
+    top: 170px;
+    left: 295px;
+}
+.box7 h2 span{
+    color: chocolate;
+
+}
+
+.indusitify{
+    width: 100%;
+}
+.denger img{
+    width: 400px;
+    padding-top: 30px;
+}
+.we_are h1 span{
+    color: chocolate;
+}
+.we_are p img{
+    width: 30px;
+}
+.process{
+    
+    width: 100%;
+    background-image: linear-gradient(to right, hsl(25, 97%, 55%) ,rgba(255, 200, 0, 0.556));
+   
+}
+.project img{
+    border-bottom: 2px dashed rgb(245, 236, 236);
+    
+}
+.process h5{
+     margin-bottom: 20px;
+     margin-top: 15px;
+}
+.img4 .fa-star{
+    color:#ffffff;
+    font-size: 27px;
+}
+.img4 .fa-trophy{
+    color:#ffffff;
+    font-size: 27px;
+}
+.img4 .fa-user{
+    color:#ffffff;
+    font-size: 27px;
+}
+.img4 .fa-mug-saucer{
+    color:#ffffff;
+    font-size: 27px;
+}
+/* .card-body{
+    border-radius: 0;
+     box-shadow: 5px 5px 10px; */
+
+.procoss2{
+    width: 100%;
+}
+.pont h1 span{
+    color: chocolate;
+}
+.project img{
+    width: 80px;
+}
+.img6:hover{
+    background-image: linear-gradient(to right, hsl(25, 97%, 55%) ,rgba(255, 200, 0, 0.556));
+}
+.img6 img{
+    width: 100%;
+}
+.img6 p span{
+    float:right;
+
+}
+.img7 img{
+    width: 100%;
+}
+ .card:hover{
+    border-color: chocolate;
+  
+}
+
+.our2{
+    background-image: linear-gradient(to right, hsl(25, 97%, 51%) ,hsl(43, 93%, 53%) );
+}
+.say img{
+    width: 110px;
+}
+.say h1{
+    color: rgb(251, 109, 8);
+}
+.soon img{
+    width: 400px;
+    border: 7px solid chocolate;
+    background-image: linear-gradient(to right, hsl(25, 99%, 47%) ,hsl(43, 93%, 53%) );
+}
+.ourhosting{
+    background-image: linear-gradient(to right, hsl(25, 99%, 47%) ,hsl(43, 93%, 53%) );
+}
+
+.say3 img{
+    width: 100%;
+}
+.say3 p span{
+    color: chocolate;
+}
+.say3 i p{
+    word-spacing: 6px;
+
+}
+.say6 h1{
+     color: chocolate;
+}
+.say7 img{
+    padding: 40px;
+}
+.fotter{
+    background-color: rgb(44, 44, 44);
+}
+.box1{
+   background-color: #bba373;
+   width: 80px;
+   height: 80px;
+   margin-left: 90px;
+   border-radius: 100%;
+   padding-top: 20px;
+   font-size: 27px;
+ 
+  
+}
+.so img{
+    font-size: 20px;
+}
+.lebel{
+    border: 5px solid chocolate;
+    position: relative;
+    
+}
+.lorn{
+  position: absolute;
+   text-align: left;
+   bottom:13px;
+   left:230px;
+}
+.lorn h6{
+    word-spacing: 30px;
+}
+.slider img{
+    width: 170px;
+}
+    
+/*.slider{
+    position:absolute; 
+   
+
+ .box1:after{
+   
+    border-left: 2px dashed #bba373; 
+}
+.box1:before{
+    border-right: 2px dashed #bba373; 
+   
+} */
+.part i{
+    font-size: 20px;
+    padding: 10px;
+    background-color: rgb(60, 59, 59);
+    border-radius: 100%;
+}
+.part2 i{
+    font-size: 20px;
+    padding: 10px;
+    background-color: rgb(240, 153, 1);
+    border-radius: 100%; 
+}
+.and{
+    background-color: black;
+}
+.say8 p span{
+    color: chocolate;
+}
+.say9 p{
+    word-spacing: 10px;
+}
